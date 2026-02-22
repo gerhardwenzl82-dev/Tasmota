@@ -87,8 +87,9 @@ Examples :
 // !!! Remember that your changes GOES AT THE BOTTOM OF THIS FILE right before the last #endif !!!
 */
 
-
-
+#endif  // _LANGUAGE_DE_DE_H_
+#define USE_HX711
+#define USE_DISPLAY
 
 
 #endif  // _USER_CONFIG_OVERRIDE_H_
